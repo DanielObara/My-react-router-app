@@ -1,10 +1,12 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import * as serviceWorker from "./serviceWorker";
 import "./index.css";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+
+/* Não se esqueça de importar seus componentes para poder chamá-los na rota (Route) */
 import App from "./App";
 import About from "./components/About";
-import * as serviceWorker from "./serviceWorker";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Registrations from "./components/Registrations";
 
 // BrowserRouter teremos as rotas para os componentes a partir desta chamada. Deste modo ele ficara em volta de todos os outros componentes.
