@@ -5,6 +5,7 @@ This project was developed with the purpose of understanding and explaining the 
 
 You can read more about me in the [LinkedIn](https://www.linkedin.com/in/danielobara).
 or [My personal blog] (https://www.danielobara.wordpress.com)
+
 **Try it out:** https://github.com/ReactTraining/react-router
 
 ## Read more
