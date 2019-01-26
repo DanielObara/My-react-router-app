@@ -2,7 +2,6 @@
 
 This project was developed with the purpose of understanding and explaining the React-Router.
 
-# Demo [My React Router App](https://danielobara.github.io/My-react-router-app/).
 
 You can read more about me in the [LinkedIn](https://www.linkedin.com/in/danielobara).
 or [My personal blog] (https://www.danielobara.wordpress.com)
